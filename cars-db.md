@@ -4,7 +4,7 @@ Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardant
 
 Used Cars Table
 
--id |BIGINT, unique, autoincrement
+-id |BIGINT, autoincrement
 -manufacturer | VARCHAR(30) not null
 -model | VARCHAR(20) not null 
 -year | YEAR not null
